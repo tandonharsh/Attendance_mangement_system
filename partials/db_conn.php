@@ -1,9 +1,9 @@
 <?php
 // Database connection parameters
-$servername = "sql208.infinityfree.com";
-$username = "if0_36734794";
-$password = "attendance2024";
-$dbname = "if0_36734794_Attendance_manager";
+$servername = "servername";
+$username = "username";
+$password = "password";
+$dbname = "database_name";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
